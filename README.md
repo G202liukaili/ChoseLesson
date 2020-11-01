@@ -80,7 +80,8 @@
 		c.choseLesson(s1.name);
 		c.needtui(s1.name);
 ## 六、系统运行截图
-![image]()
+![image](https://github.com/G202liukaili/ChoseLesson/blob/main/image/2020-11-01_125900.jpg)
+![image](https://github.com/G202liukaili/ChoseLesson/blob/main/image/2020-11-01_125900.jpg)
 		
 		
 		
