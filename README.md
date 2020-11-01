@@ -1,4 +1,4 @@
-## G202 刘凯丽 2020322095
+## 计G202 刘凯丽 2020322095
 # 实验报告
 ## 一、实验目的
 * 初步了解分析系统需求，从学生选课角度了解系统中的实体及其关系，学会定义类中的属性以及方法；
@@ -83,10 +83,10 @@
 ![image](https://github.com/G202liukaili/ChoseLesson/blob/main/image/2020-11-01_125900.jpg)
 ![image](https://github.com/G202liukaili/ChoseLesson/blob/main/image/2020-11-01_130135.jpg)
 ## 七、编程感想
-1.仔细分析类之间的关系，确定主类和父类很重要，不然全乱了。
-2.学会了构造Scanner类对象来接收控制台信息，和Arrays.toString()方法来输出数组的元素。
-3.学会了类的继承和构造方法以及super关键词的使用。
-4.readme流程图一开始以为是markdown代码实现费了好久时间仍然放弃改用图片显示。
+1.仔细分析类之间的关系，确定主类和父类很重要，不然全乱了。<br/>
+2.学会了构造Scanner类对象来接收控制台信息，和Arrays.toString()方法来输出数组的元素。<br/>
+3.学会了类的继承和构造方法以及super关键词的使用。<br/>
+4.readme流程图一开始以为是markdown代码实现费了好久时间仍然放弃改用图片显示。<br/>
 
 		
 		
