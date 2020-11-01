@@ -81,7 +81,13 @@
 		c.needtui(s1.name);
 ## 六、系统运行截图
 ![image](https://github.com/G202liukaili/ChoseLesson/blob/main/image/2020-11-01_125900.jpg)
-![image](https://github.com/G202liukaili/ChoseLesson/blob/main/image/2020-11-01_125900.jpg)
+![image](https://github.com/G202liukaili/ChoseLesson/blob/main/image/2020-11-01_130135.jpg)
+## 七、编程感想
+1.仔细分析类之间的关系，确定主类和父类很重要，不然全乱了。
+2.学会了构造Scanner类对象来接收控制台信息，和Arrays.toString()方法来输出数组的元素。
+3.学会了类的继承和构造方法以及super关键词的使用。
+4.readme流程图一开始以为是markdown代码实现费了好久时间仍然放弃改用图片显示。
+
 		
 		
 		
