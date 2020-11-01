@@ -29,16 +29,13 @@
 		
 		String keming[]={"1JAVA","2English","3Internet","4History"};
 		
-4.新建测试类Test，实例化Course类。<br/>
-
+4.新建测试类Test，实例化Course类。在此类调用choseLesson()，needtui()方法;<br/>;
+		
+		public class Test {    
+		c.choseLesson(s1.name);
+		c.needtui(s1.name);
+		
 ## 实验流程图
 
-```mermaid
-graph TB
-    id[矩形]
-    id4(圆角矩形)
-    id3>不对称矩形]
-    id1{菱形}
-    id2((圆形))
-```\
+
 
