@@ -36,6 +36,7 @@
 		c.needtui(s1.name);
 		
 ## 实验流程图
+![image](https://github.com/G202liukaili/ChoseLesson/liuchengtu.jpg)
 
 
 
