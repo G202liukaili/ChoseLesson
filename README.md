@@ -14,10 +14,31 @@
 * 模拟学生退课操作，再打印课程信息。
 ## 实验过程
 1.新建Member类，作为父类。定义成员变量（学号，姓名，性别）。<br/>
+
     int xuehao;
-	  String  name,sex;
+    String  name,sex;
+    
+2.新建Student类和Teacher类，并且给Teacher类的成员变量赋值，二者都继承Member类。<br/>
+
+		public class Student extends Member{
+		public class Teacher extends Member{
+		
+3.新建Course类，其继承Teacher类。使用数组存放Course变量信息，在构造方法Public Course(){}中实现输出课程的编号、名称列表，实例化Teacher类。<br/>		
+
+		public class Course extends Teacher{
+		
+		String keming[]={"1JAVA","2English","3Internet","4History"};
+		
+4.新建测试类Test，实例化Course类。<br/>
+
 ## 实验流程图
-## 核心代码
-## 注释
-## 系统运行截图
-## 编程感想
+
+```mermaid
+graph TB
+    id[矩形]
+    id4(圆角矩形)
+    id3>不对称矩形]
+    id1{菱形}
+    id2((圆形))
+```\
+
